@@ -23,7 +23,7 @@ function longestConsecutive(listOfStrings, k) {
 //     };
 //     return ''
 // };
-
+// 
 
 
 console.log(longestConsecutive(['hi', 'marbles', 'mittens', 'bye', 'lorem', 'ipsum', 'to', 'a', 'hippocampus'], 3)); // -> 'marblesmittensbye'
